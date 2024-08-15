@@ -1,4 +1,4 @@
-Here’s a basic README file for your Terraform project that sets up a VPC with public and private subnets on AWS:
+
 
 ---
 
